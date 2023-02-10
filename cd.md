@@ -1,6 +1,6 @@
 #Lubov Kurij
 ****************************
-![userphoto](/rsschool-cv/image/photo.jpg "Моє фото")
+![userphoto](/rsschool-cv/image/photo.jpg "My photo")
 ##Personal data
 +*Name
     +Lubov Kurij
