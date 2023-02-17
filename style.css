@@ -2,4 +2,81 @@ body {
   margin: 0; 
   padding: 0;
   width: 100%;
+  
 }
+
+.conteiner {
+display:flex;
+flex-wrap: wrap;
+flex-direction: row-reverse;
+justify-content: space-between;
+}
+
+.header {
+  width: 100%;
+  margin:10px;
+  border: 3px solid rgb(20, 8, 8);
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 8px;
+}
+
+.main {
+  width: 65%;
+}
+
+.name {}
+
+.about {}
+
+.about-titel {}
+
+.about-description {}
+
+.education {}
+
+.education-title {}
+
+.education-list {}
+
+.education-item {}
+
+.certificateEN {}
+
+.certificateHTML {}
+
+.exampel-code {}
+
+.skills {}
+
+.skills_titel {}
+
+.skills-list {}
+
+.skills-item {}
+
+.sidebar {
+  width: 35%;
+}
+
+.photo {}
+
+.sidebar-titel {}
+
+.navigation {}
+
+.nav-list {}
+
+.nav-item {}
+
+.contact_link {}
+
+.sidebar-list {}
+
+.sidebar-item {}
+
+.footer {}
+
+.logo-rsschool {}
+
+.link-rrschool {}
