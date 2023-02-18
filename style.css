@@ -1,37 +1,44 @@
 body {
-  margin: 0; 
+  margin: 10px; 
   padding: 0;
-  width: 100%;
-  
+  max-width: 1024px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 16px;
+  text-decoration: none;
+  list-style: none;
 }
 
 .conteiner {
-display:flex;
-flex-wrap: wrap;
-flex-direction: row-reverse;
-justify-content: space-between;
+  display:flex;
+  flex-wrap: wrap;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  background-color:aliceblue
 }
 
-.header {
+.header,
+.footer{
   width: 100%;
-  margin:10px;
   border: 3px solid rgb(20, 8, 8);
   text-align: center;
   border-radius: 10px;
-  box-shadow: 8px;
 }
 
 .main {
   width: 65%;
 }
 
-.name {}
+.about {
+  margin: 30px;
+}
 
-.about {}
+.about-titel {
+justify-content: center;
+}
 
-.about-titel {}
-
-.about-description {}
+.about-description {
+  text-align: justify;
+}
 
 .education {}
 
@@ -75,7 +82,13 @@ justify-content: space-between;
 
 .sidebar-item {}
 
-.footer {}
+.footer {
+ display:flex;
+ flex-wrap: wrap;
+ flex-direction: row;
+ justify-content: space-evenly;
+ align-items: center;
+}
 
 .logo-rsschool {}
 
