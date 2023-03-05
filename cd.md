@@ -9,7 +9,7 @@
 +*Telephone
     +30976701025
 +*Email
-    +lubovhimicka@gmail.coь
+    +lubovhimicka@gmail.com
 +*GitHub
     https://github.com/Lub4a
 +*marital status
