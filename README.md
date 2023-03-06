@@ -1,1 +1,1 @@
-https://github.com/Lub4a/rsschool-cv/blob/gh-pages/cd.md
+https://github.com/Lub4a/rsschool-cv/blob/gh-pages/cv.md
