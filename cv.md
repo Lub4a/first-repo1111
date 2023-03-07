@@ -1,8 +1,8 @@
+
 **Liubov Kurij**
 =========
 ****************************
 ![userphoto](/image/photo.jpg)
-
 Personal data 
 -----
 + *Address*  
@@ -43,7 +43,8 @@ Education and qualifications
     2.November 2022 Soft Scills in Genius Academy
     3.November 2022 English language -level A2 in Campster
     4.Desember 2022 HTML5 and CSS3 Starter in ITVDN
-    5.January 2023 JS self-education & RS School.JS stage 0;
+    5.January 2023 JS self-education & RS School.JS stage 0
+=======
 ---------------------------
  ![certificateEN](/image/en.jpg) 
  --------------------------- 
@@ -62,4 +63,3 @@ function finalGrade (exam, projects) {
   } else {
   return 0;} 
 }
-```
